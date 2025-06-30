@@ -1,0 +1,915 @@
+[
+	{
+		"id": 1,
+		"name": "1-е Льноправление",
+		"carouselImages": [
+			"/images/manufactories/lnopravlenie/1.jpg",
+			"/images/manufactories/lnopravlenie/2.jpg"
+		],
+		"description": [
+			"После Октябрьской революции – в начале 1920-х годов – в СССР начали формировать отраслевые управления, в том числе и в льнопромышленности. Так появилось 1-е Льноправление, объединяющее крупные льняные фабрики Костромской и Ярославской губерний. Цель — централизованное управление, модернизация производства и интеграция фабрик в рамках создаваемой советской экономики.",
+			"В состав объединения вошли ведущие предприятия льнопрома: Кострома с её знаменитой «Большой Костромской льняной мануфактурой» (впоследствии — Первый республиканский завод, позже Льнокомбинат имени Ленина) и ряд фабрик братьев Зотовых, Брюхановых и других; Ярославль с Большой мануфактурой, Гаврилов-Ямской, Ростовской и Поздняковской льняными фабриками.",
+			"В конце 1920-х запускались масштабные проекты: проводилась электрификация фабрик, были построены высоковольтные линии и подстанции (до 38 кВ), что улучшило производственные мощности. Наиболее крупный комплекс — Новая Костромская фабрика — к 1912 году насчитывала 41 500 веретён и 567 ткацких станков и уже в 1920-е продолжала масштабные модернизации.",
+			"В зимнем сезоне 1929 года 1-е Льноправление объединилось со 2-м (Вязники, Муром и др.) – образовался единый Льнотрест, включавший около 39 фабрик, включая переработку в Иваново-Вознесенском регионе.",
+			"Для поддержки модернизации создавались специализированные учебные структуры. В Костроме в 1932 году открыли текстильный институт («льновтуз»), который впоследствии вырос в кафедру технологии производства льняного волокна. Сотрудничали такие специалисты, как профессор А. Сивцов. Это обеспечило кадровое обеспечение предприятий.",
+			"Во время Великой Отечественной войны предприятия, ранее входившие в структуру 1-го Льноправления, производили стратегически важную продукцию — брезент, палатки, авиационные материалы — и активно участвовали в социалистическом соревновании."
+		],
+		"albums": [
+			{
+				"id": 1,
+				"title": "Альбом №1. Всесоюзный Текстильный синдикат. Льняная контора. Москва, ул. Разина, 9. Образцы льняных тканей 1-го Льноправления",
+				"coverImages": [
+					"/images/manufactories/lnopravlenie/albums/1.JPG",
+					"/images/manufactories/lnopravlenie/albums/2.JPG"
+				],
+				"fabrics": [
+					{
+						"id": 1,
+						"name": "Полотно суровое",
+						"sort": "52",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/1 Полотно суровое , сорт 52/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/1 Полотно суровое , сорт 52/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/1 Полотно суровое , сорт 52/под микроскопом/полотно суровое 52.jpg",
+								"/images/manufactories/lnopravlenie/albums/1 Полотно суровое , сорт 52/под микроскопом/суров 52 лин.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 2,
+						"name": "Полотно суровое",
+						"sort": "6",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/2 полотно суровое, сорт 6/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/2 полотно суровое, сорт 6/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/2 полотно суровое, сорт 6/под микроскопом/суровое 6.jpg",
+								"/images/manufactories/lnopravlenie/albums/2 полотно суровое, сорт 6/под микроскопом/суровый 6 лин.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 3,
+						"name": "Полотно суровое",
+						"sort": "8",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/3 Полотно суровое, сорт 8/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/3 Полотно суровое, сорт 8/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/3 Полотно суровое, сорт 8/под микроскопом/суровое 8.jpg",
+								"/images/manufactories/lnopravlenie/albums/3 Полотно суровое, сорт 8/под микроскопом/суровое 8 лин.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 4,
+						"name": "Полотно суровое",
+						"sort": "10",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/4 Полотно суровое, сорт 10/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/4 Полотно суровое, сорт 10/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/4 Полотно суровое, сорт 10/под микроскопом/суров 10 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/4 Полотно суровое, сорт 10/под микроскопом/суров10.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 5,
+						"name": "Полотно суровое",
+						"sort": "12",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/5 Полотно суровое , сорт 12/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/5 Полотно суровое , сорт 12/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/5 Полотно суровое , сорт 12/под микроскопом/суров 12 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/5 Полотно суровое , сорт 12/под микроскопом/суров 12.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 6,
+						"name": "Полотно суровое полульняное",
+						"sort": "8",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/6 Полотно суровое полульняное, сорт 8/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/6 Полотно суровое полульняное, сорт 8/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/6 Полотно суровое полульняное, сорт 8/под микроскопом/суров полуль 8 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/6 Полотно суровое полульняное, сорт 8/под микроскопом/суров полульн 8.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 7,
+						"name": "Полотно суровое полульняное",
+						"sort": "9",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/7 Полотно суровое полульняное, сорт 9/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/7 Полотно суровое полульняное, сорт 9/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/7 Полотно суровое полульняное, сорт 9/под микроскопом/суров полульн 9 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/7 Полотно суровое полульняное, сорт 9/под микроскопом/суров полульн 9.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 8,
+						"name": "Полотно суровое",
+						"sort": "46",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/8 Полотно суровое, сорт 46/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/8 Полотно суровое, сорт 46/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/8 Полотно суровое, сорт 46/под микроскопом/суров 46 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/8 Полотно суровое, сорт 46/под микроскопом/суров 46.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 9,
+						"name": "Полотно суровое",
+						"sort": "54, см 106",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/9 Полотно суровое, сорт 54, см 106/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/9 Полотно суровое, сорт 54, см 106/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/9 Полотно суровое, сорт 54, см 106/под микроскопом/суров 54 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/9 Полотно суровое, сорт 54, см 106/под микроскопом/суров 54.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 10,
+						"name": "Полотно суровое",
+						"sort": "7",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/10 Полотно суровое, сорт 7/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/10 Полотно суровое, сорт 7/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/10 Полотно суровое, сорт 7/под микроскопом/суров 7 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/10 Полотно суровое, сорт 7/под микроскопом/суров 7.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 11,
+						"name": "Полотно суровое",
+						"sort": "54, см 142",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/11 Полотно суровое, , сорт 54, см 142/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/11 Полотно суровое, , сорт 54, см 142/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/11 Полотно суровое, , сорт 54, см 142/под микроскопом/суров 54 142 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/11 Полотно суровое, , сорт 54, см 142/под микроскопом/суров 54 142.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 12,
+						"name": "Полотно суровое",
+						"sort": "64",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/12 Полотно суровое, сорт 64/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/12 Полотно суровое, сорт 64/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/12 Полотно суровое, сорт 64/под микроскопом/суров 64 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/12 Полотно суровое, сорт 64/под микроскопом/суров 64.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 13,
+						"name": "Полотно суровое",
+						"sort": "70",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/13 Полотно суровое, сорт 70/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/13 Полотно суровое, сорт 70/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/13 Полотно суровое, сорт 70/под микроскопом/суров 70 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/13 Полотно суровое, сорт 70/под микроскопом/суров 70.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 14,
+						"name": "Полотно суровое",
+						"sort": "7m",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/14 Полотно суровое, сорт 7m/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/14 Полотно суровое, сорт 7m/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/14 Полотно суровое, сорт 7m/под микроскопом/суров 7т лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/14 Полотно суровое, сорт 7m/под микроскопом/суров 7т.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 15,
+						"name": "Коломенок суровый",
+						"sort": "135",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/15 Коломенок суровый, сорт 135/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/15 Коломенок суровый, сорт 135/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/15 Коломенок суровый, сорт 135/под микроскопом/кол сур 135 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/15 Коломенок суровый, сорт 135/под микроскопом/кол сур 135.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Атлас/Аксонометрия_атлас.PNG",
+								"/images/manufactories/3D-models/Атлас/Вид сбоку 1_атлас.PNG",
+								"/images/manufactories/3D-models/Атлас/Вид сбоку 2_атлас.PNG",
+								"/images/manufactories/3D-models/Атлас/Вид сверху_атлас.PNG",
+								"/images/manufactories/3D-models/Атлас/Раппорт_атлас.PNG"
+							]
+						}
+					},
+					{
+						"id": 16,
+						"name": "Коломенок суровый",
+						"sort": "165",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/16 Коломенок суровый, сорт 165/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/16 Коломенок суровый, сорт 165/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/16 Коломенок суровый, сорт 165/под микроскопом/кол сур 165 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/16 Коломенок суровый, сорт 165/под микроскопом/кол сур 165.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Сатин/Аксонометрия_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сбоку 1_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сбоку 2_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сверху_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Раппорт_сатин.PNG"
+							]
+						}
+					},
+					{
+						"id": 17,
+						"name": "Равентух суровый",
+						"sort": "48",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/17 Равентух суровый, сорт 48/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/17 Равентух суровый, сорт 48/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/17 Равентух суровый, сорт 48/под микроскопом/рав сур 48 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/17 Равентух суровый, сорт 48/под микроскопом/рав сур 48.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 18,
+						"name": "Равентух суровый",
+						"sort": "54",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/18 Равентух суровый, сорт 54/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/18 Равентух суровый, сорт 54/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/18 Равентух суровый, сорт 54/под микроскопом/рав сур 54 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/18 Равентух суровый, сорт 54/под микроскопом/рав сур 54.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 19,
+						"name": "Равентух суровый",
+						"sort": "64",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/19 Равентух суровый, сорт 64/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/19 Равентух суровый, сорт 64/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/19 Равентух суровый, сорт 64/под микроскопом/рав сур 64 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/19 Равентух суровый, сорт 64/под микроскопом/рав сур 64.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 20,
+						"name": "Равентух суровый",
+						"sort": "100",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/20 Равентух суровый, сорт 100/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/20 Равентух суровый, сорт 100/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/20 Равентух суровый, сорт 100/под микроскопом/рав сур 100 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/20 Равентух суровый, сорт 100/под микроскопом/рав сур 100.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 21,
+						"name": "Полотно (бортовка)",
+						"sort": "48",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/21 Полотно (бортовка), сорт 48/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/21 Полотно (бортовка), сорт 48/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/21 Полотно (бортовка), сорт 48/под микроскопом/пол бор 48 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/21 Полотно (бортовка), сорт 48/под микроскопом/пол бор 48.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 22,
+						"name": "Полотно (бортовка)",
+						"sort": "6",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/22 Полотно (бортовка), сорт 6/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/22 Полотно (бортовка), сорт 6/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/22 Полотно (бортовка), сорт 6/под микроскопом/пол бор 6 лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/22 Полотно (бортовка), сорт 6/под микроскопом/пол бор 6.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 23,
+						"name": "Полотно (бортовка)",
+						"sort": "7б",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/lnopravlenie/albums/23 Полотно (бортовка), сорт 7б/описание и ткань/1.JPG",
+								"/images/manufactories/lnopravlenie/albums/23 Полотно (бортовка), сорт 7б/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/lnopravlenie/albums/23 Полотно (бортовка), сорт 7б/под микроскопом/пол бор 7б лин.jpg",
+								"/images/manufactories/lnopravlenie/albums/23 Полотно (бортовка), сорт 7б/под микроскопом/пол бор 7б.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Иваново-Вознесенский трест",
+		"carouselImages": [
+			"/images/manufactories/ivanovo-trest/1.jpg",
+			"/images/manufactories/ivanovo-trest/2.jpg"
+		],
+		"description": [
+			"Иваново-Вознесенский государственный текстильный трест был создан в 1921 году под патронажем молодой советской промышленности. В него вошли ведущие хлопчатобумажные и льняные предприятия региона — Иваново-Вознесенск, Тейково, Вичуга, Кинешма, Родники, Шуя, Кохма, Пучеж, Середа и другие…",
+			"Одной из самых ярких инициатив треста стали агитационные платки — головные или декоративные ткани с революционной тематикой. Первый блок был выпущен Тейковской мануфактурой в 1922 году к 5-й годовщине Октября, с лозунгами «Вся власть Советам!» и «Пролетарии всех стран, соединяйтесь!» по эскизам Л. Чернова-Плёскова.",
+			"Позже платки содержали изображения центральных событий и лидеров: Ленин, Свердлов, Калинин, сцены поддержки большевиков у Таврического дворца. Их утилитарность сочеталась с пропагандой — платок одновременно носили и использовали как агитплакат. В 1922–23 годах трест организовал Центральную рисовальную мастерскую, куда привлекали художников-дизайнеров, в том числе бывших ВХУТЕМАС. По инициативе треста, правление обязало фабрики направлять образцы тканей в музей, что законсервировало культурное наследие.",
+			"Иваново-Вознесенск быстро превратился в «Красный Манчестер» — центр индустриализации и социалистической. Трест вёл собственное строительство жилья, социальных объектов и рабочих посёлков, воплощая концепцию «города-сада». Здания жилых комплексов, спроектированные архитекторами С.Н. Грузенбергом, В.И. Панковым, В.А. Весниным, ныне включены в список объектов культурного наследия.",
+			"Позднее многие фабрики интегрировались в государственные и союзные объединения (например, «Ивтальпром», «Волгальпром»), однако к концу XX — началу XXI веков отрасль столкнулась с упадком и приватизацией — немало зданий и коллекций оказались на грани утраты. Тем не менее архитектура рабочей среды, материалы хранения и музейные архивы обеспечивают сохранение этого важного периода российской текстильной истории."
+		],
+		"albums": [
+			{
+				"id": 1,
+				"title": "Альбом №16. Всесоюзный Текстильный синдикат. Льняная контора. Москва, ул. Разина, 9. Образцы льняных тканей Иваново-Вознесенского Треста",
+				"coverImages": [
+					"/images/manufactories/ivanovo-trest/albums/1.JPG",
+					"/images/manufactories/ivanovo-trest/albums/2.JPG"
+				],
+				"fabrics": [
+					{
+						"id": 1,
+						"name": "Полотно белое",
+						"sort": "10",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/1 Полотно белое, сорт 10/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/1 Полотно белое, сорт 10/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/1 Полотно белое, сорт 10/под микроскопом/пол бел 10 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/1 Полотно белое, сорт 10/под микроскопом/пол бел 10.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 2,
+						"name": "Двуниток суровый",
+						"sort": "39, см 142",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/10 Двуниток суровый, сорт 39, см 142/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/10 Двуниток суровый, сорт 39, см 142/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/10 Двуниток суровый, сорт 39, см 142/под микроскопом/двун сур 39 142 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/10 Двуниток суровый, сорт 39, см 142/под микроскопом/двун сур 39 142.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 3,
+						"name": "Полотно белое",
+						"sort": "8",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/2 Полотно белое, сорт 8/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/2 Полотно белое, сорт 8/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/2 Полотно белое, сорт 8/под микроскопом/пол бел 8 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/2 Полотно белое, сорт 8/под микроскопом/пол бел 8.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 4,
+						"name": "Полотно скатерное камчатное",
+						"sort": "8, ширина в см 140",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/3 Полотно скатерное камчатное, сорт 8, ширина всм 140/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/3 Полотно скатерное камчатное, сорт 8, ширина всм 140/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/3 Полотно скатерное камчатное, сорт 8, ширина всм 140/под микроскопом/пол скат 8 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/3 Полотно скатерное камчатное, сорт 8, ширина всм 140/под микроскопом/пол скат 8.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Сатин/Аксонометрия_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сбоку 1_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сбоку 2_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сверху_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Раппорт_сатин.PNG"
+							]
+						}
+					},
+					{
+						"id": 5,
+						"name": "Полотно скатерное камчатное",
+						"sort": "8, ширина в см 175",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/4 Полотно скатерное камчатное, сорт 8, ширина в см 175/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/4 Полотно скатерное камчатное, сорт 8, ширина в см 175/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/4 Полотно скатерное камчатное, сорт 8, ширина в см 175/под микроскопом/пол скат 8 175 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/4 Полотно скатерное камчатное, сорт 8, ширина в см 175/под микроскопом/пол скат 8 175.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Сатин/Аксонометрия_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сбоку 1_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сбоку 2_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Вид сверху_сатин.PNG",
+								"/images/manufactories/3D-models/Сатин/Раппорт_сатин.PNG"
+							]
+						}
+					},
+					{
+						"id": 6,
+						"name": "Холст полотенечный суровый полосатый",
+						"sort": "8",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/5 Холст полотенечный суровый полосатый, сорт 8/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/5 Холст полотенечный суровый полосатый, сорт 8/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/5 Холст полотенечный суровый полосатый, сорт 8/под микроскопом/холст полот сур полос 8 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/5 Холст полотенечный суровый полосатый, сорт 8/под микроскопом/холст полот сур полос 8.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 7,
+						"name": "Полотно террасное с просновкой",
+						"sort": "6",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/6 Полотно террасное с просновкой, сорт 6/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/6 Полотно террасное с просновкой, сорт 6/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/6 Полотно террасное с просновкой, сорт 6/под микроскопом/полотно террас 6 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/6 Полотно террасное с просновкой, сорт 6/под микроскопом/полотно террас 6.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 8,
+						"name": "Полотно суровое",
+						"sort": "8",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/7 Полотно суровое, сорт 8/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/7 Полотно суровое, сорт 8/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/7 Полотно суровое, сорт 8/под микроскопом/пол сур 8 80 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/7 Полотно суровое, сорт 8/под микроскопом/пол сур 8 80.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 9,
+						"name": "Равентух суровый",
+						"sort": "64",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/8 Равентух суровый, сорт 64/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/8 Равентух суровый, сорт 64/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/8 Равентух суровый, сорт 64/под микроскопом/рав сур 64 68 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/8 Равентух суровый, сорт 64/под микроскопом/рав сур 64 68.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					},
+					{
+						"id": 10,
+						"name": "Двуниток суровый",
+						"sort": "39",
+						"widthCm": 74,
+						"techSpecs": "пряжа по основе 18 в, по утку 18 в; плотность в 1 дюйм по основе 29, по утку 32",
+						"priceWholesale": "55 коп. за метр",
+						"approxLength": 450,
+						"images": {
+							"description": [
+								"/images/manufactories/ivanovo-trest/albums/9 Двуниток суровый, сорт 39/описание и ткань/1.JPG",
+								"/images/manufactories/ivanovo-trest/albums/9 Двуниток суровый, сорт 39/описание и ткань/2.JPG"
+							],
+							"underMicroscope": [
+								"/images/manufactories/ivanovo-trest/albums/9 Двуниток суровый, сорт 39/под микроскопом/двун сур 39 лин.jpg",
+								"/images/manufactories/ivanovo-trest/albums/9 Двуниток суровый, сорт 39/под микроскопом/двун сур 39.jpg"
+							],
+							"model3d": [
+								"/images/manufactories/3D-models/Полотняное/Аксонометрия_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 1_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сбоку 2_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Вид сверху_полотняное.PNG",
+								"/images/manufactories/3D-models/Полотняное/Раппорт_полотняное.PNG"
+							]
+						}
+					}
+				]
+			}
+		]
+	}
+]
