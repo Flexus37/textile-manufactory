@@ -153,7 +153,7 @@ export default function FabricClient({
 			{/* Footer ссылка */}
 			<div className="flex justify-end">
 				<Link
-					href={`/manufactories/${slug}/catalogs/${albumId}`}
+					href={`/catalog/${slug}/album/${albumId}`}
 					className="inline-flex gap-1 items-center text-brand underline"
 				>
 					<ArrowRight className='rotate-180' size={20} /> Назад к альбому

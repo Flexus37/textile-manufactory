@@ -23,8 +23,8 @@ export default function Home() {
               </p>
             </div>
             <div className="flex items-center gap-[15px] mt-[70px] mb-[50px]">
-              <Link href="/search" className="p-5 border-brand border-2 border-dashed rounded-3xl cursor-pointer hover:bg-brand hover:text-white transition-colors">Мануфактуры</Link>
-              <Link href="/manufactories" className="p-5 border-brand border-2 border-dashed rounded-3xl cursor-pointer hover:bg-brand hover:text-white transition-colors">Поиск</Link>
+              <Link href="/manufactories" className="p-5 border-brand border-2 border-dashed rounded-3xl cursor-pointer hover:bg-brand hover:text-white transition-colors">Мануфактуры</Link>
+              <Link href="/search" className="p-5 border-brand border-2 border-dashed rounded-3xl cursor-pointer hover:bg-brand hover:text-white transition-colors">Поиск</Link>
             </div>
           </div>
           <Image
