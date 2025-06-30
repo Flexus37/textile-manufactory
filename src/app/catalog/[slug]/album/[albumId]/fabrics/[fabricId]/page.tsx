@@ -6,9 +6,11 @@ export const metadata: Metadata = {
 }
 
 interface Params {
-	params: { slug: string; albumId: string, fabricId: string }
+	params: Promise<{ slug: string; albumId: string, fabricId: string }>
 }
 
-export default function AlbumPageWrapper({ params }: Params) {
-	return <FabricClient slug={params.slug} albumId={params.albumId} fabricId={params.fabricId} />
+export default async function AlbumPageWrapper({ params }: Params) {
+	const {slug, albumId, fabricId} = await params;
+	
+	return <FabricClient slug={slug} albumId={albumId} fabricId={fabricId} />
 }

@@ -13,9 +13,6 @@ import {
 import manufactoriesJson from "@/data/manufactories.json"
 import type {
 	ManufactoriesData,
-	Manufactury,
-	Album,
-	Fabric,
 } from "@/types/manufactories"
 
 const data = manufactoriesJson as ManufactoriesData
@@ -87,7 +84,7 @@ export default function SearchPage() {
 			const pa = a.name.toLowerCase()
 			const pb = b.name.toLowerCase()
 			let cmp = pa.localeCompare(pb)
-			// TODO: date и size, когда появятся соответствующие поля
+			
 			return sortAsc === "asc" ? cmp : -cmp
 		})
 		
@@ -219,9 +216,9 @@ export default function SearchPage() {
 						if (it.type === "manufactury") {
 							href = `/manufactories/${it.id}`
 						} else if (it.type === "album") {
-							href = `/manufactories/${it.manufId}/catalogs/${it.id}`
+							href = `catalog/${it.manufId}/album/${it.id}`
 						} else {
-							href = `/manufactories/${it.manufId}/catalogs/${it.albumId}/fabrics/${it.id}`
+							href = `catalog/${it.manufId}/album/${it.albumId}/fabrics/${it.id}`
 						}
 						return (
 							<div

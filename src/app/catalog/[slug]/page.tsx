@@ -5,10 +5,12 @@ export const metadata: Metadata = {
 	title: "Каталоги мануфактуры",
 };
 
-export default function CatalogPageWrapper({
+export default async function CatalogPageWrapper({
 	params,
 }: {
-	params: { slug: string };
+	params: Promise<{ slug: string }>;
 }) {
-	return <CatalogClient slug={params.slug} />;
+	const { slug } = await params;
+	
+	return <CatalogClient slug={slug} />;
 }
